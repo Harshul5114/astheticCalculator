@@ -15,11 +15,6 @@ A sleek, responsive, and theme-switchable calculator built with HTML, CSS, and J
 * Smooth theme switching (light/dark/others)
 * Animated toggle switch with modern styling
 
----
-
-## 📸 Preview
-
-![Calculator Preview](preview.png) <!-- Replace with actual screenshot -->
 
 ---
 
@@ -27,10 +22,10 @@ A sleek, responsive, and theme-switchable calculator built with HTML, CSS, and J
 
 ```
 📆 aestheticCalculator/
-├── index.html
+├── page.html
 ├── style.css
-├── dark-theme.css
-├── light-theme.css
+├── sleekTheme.css
+├── pastelTheme.css
 ├── script.js
 └── README.md
 ```
@@ -38,10 +33,11 @@ A sleek, responsive, and theme-switchable calculator built with HTML, CSS, and J
 ---
 
 ## 🎨 Themes
+### Dark Theme
+![image](https://github.com/user-attachments/assets/eff5dd93-25a0-48c9-9473-6bd8f15d4e95)
 
-Switch themes using a custom toggle switch. Theme preference is saved using `localStorage`.
-
-You can create additional themes by making new CSS files and referencing them via JavaScript.
+### Light Theme
+![image](https://github.com/user-attachments/assets/791c934a-ce03-4d19-93a7-1e365362b763)
 
 ---
 
@@ -50,11 +46,11 @@ You can create additional themes by making new CSS files and referencing them vi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/aestheticCalculator.git
+   git clone https://github.com/Harshul5114/aestheticCalculator.git
    cd aestheticCalculator
    ```
 
-2. Open `index.html` in any browser.
+2. Open `page.html` in any browser.
 
 ---
 
@@ -72,8 +68,3 @@ You can create additional themes by making new CSS files and referencing them vi
 * Scientific functions (sin, cos, log, etc.)
 * History memory
 
----
-
-## 📄 License
-
-MIT License © 2025 \[Your Name]
