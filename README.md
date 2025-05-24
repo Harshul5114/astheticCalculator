@@ -1,4 +1,4 @@
-# 🧼 Aesthetic Calculator
+# Aesthetic Calculator
 
 A sleek, responsive, and theme-switchable calculator built with HTML, CSS, and JavaScript. Designed to behave like a real calculator, including smart number formatting, theme support, and intuitive user interaction.
 
